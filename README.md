@@ -98,10 +98,13 @@ python agente.py mi-ciudad.md
 > ¿Les gustaría que charlemos? Juan - TechSolutions - +54 9 11 XXXX-XXXX
 
 ---
+## 💡 Tips & Notas
 
 >[!IMPORTANT]
 > El agente respeta los tiempos de carga de Google Maps para no ser bloqueado
+
 >[!TIP]
 > Podés editar `config.md` sin tocar código Python
+
 >[!TIP]
 > Los mensajes son únicos para cada comercio gracias a Claude AI
