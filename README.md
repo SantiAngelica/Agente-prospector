@@ -99,8 +99,9 @@ python agente.py mi-ciudad.md
 
 ---
 
-## Notas
-
-- El agente respeta los tiempos de carga de Google Maps para no ser bloqueado
-- Podés editar `config.md` sin tocar código Python
-- Los mensajes son únicos para cada comercio gracias a Claude AI
+[!IMPORTANT]
+> El agente respeta los tiempos de carga de Google Maps para no ser bloqueado
+[!TIP]
+> Podés editar `config.md` sin tocar código Python
+[!TIP]
+> Los mensajes son únicos para cada comercio gracias a Claude AI
